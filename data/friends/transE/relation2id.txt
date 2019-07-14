@@ -1,0 +1,7 @@
+friend	0
+lover	1
+name	2
+nickname	3
+occupation	4
+relative	5
+workplace	6

@@ -1,0 +1,384 @@
+Rachel | name
+Rachel, Green
+Rachel, Geller
+Rachel, Karen Green
+Rachel, Karen Green-Geller
+
+Rachel | nickname
+Rach | The Gang
+Green | Chandler, Ross
+Ray-Ray | Melissa Warburton
+Pumpkin | Leonard Green
+Raquel | Kim, colleagues*, Paolo
+Mrs. Geller | mistake
+
+Rachel | occupation
+waitress | s1 s2 s3
+assistant | s3
+buyer | s3 s4 s5
+personal shopper | s3 s4 s5
+executive | s5 s6 s7 s8 s9 s10
+
+Rachel | workplace
+Central Perk | s1 s2 s3
+Fortunata Fashions | s3
+Blooming-dale's | s3 s4 s5
+Ralph Lauren | s5 s6 s7 s8 s9 s10
+
+Rachel | relative
+Leonard, Green | daughter
+
+Rachel | relative
+Sandra, Green | daughter
+
+Rachel | relative
+Amy, Green | sister
+Jill, Green | sister
+
+Rachel | relative
+Ida, Green | granddaughter
+
+Rachel | relative
+Muriel | grandniece
+
+Rachel | relative
+Emma, Geller-Green | mother
+
+Rachel | lover
+Ross, Geller | wife
+
+Rachel | lover
+Paolo
+Paul, Stevens
+Tag, Jones
+Joshua, Burgin
+Danny
+Joey, Tribbiani
+Barry, Farber
+Phoebe, Buffay
+
+Monica | name
+Monica, Geller
+Monica, E. Geller
+Monica, Geller-Bing
+
+Monica | nickname
+Mon
+Harmonica | Jack Geller
+Marsha
+Monican | Phoebe
+Monicow | high school
+Monana
+
+Monica | occupation
+chef | s1 s2
+waitress | s2 s3
+head chef | s4 s5 s6 s7 s8 s9 s10
+
+Monica | workplace
+Iridium | s1 s2
+Moondance Diner | s2 s3
+Allesandro's | s4 s5 s6 s7 s8 s9
+Javu | s9 s10
+
+Monica | relative
+Jack, Geller | daughter
+
+Monica | relative
+Judy, Geller | daughter
+
+Monica | relative
+Ross, Geller | sister
+
+Monica | relative
+Althea | granddaughter
+
+Monica | relative
+Ben, Geller | aunt
+
+Monica | relative
+Cassie, Geller
+Frannie
+
+Monica | lover
+Chandler, Bing | wife
+
+Monica | lover
+Pete, Becker
+Richard, Burke
+Stuart
+Julio
+Bobby
+
+Monica | friend
+Rachel, Green
+Joey, Tribbiani
+
+Phoebe | name
+Phoebe, Buffay
+Phoebe, Buffay-Hannigan
+Sullivan
+
+Phoebe | nickname
+Pheebs | The Gang
+Phyllis | Monica Geller
+Pooh | Frances
+PeHee | mistake
+Emma | Amy Green
+
+Phoebe | nickname
+Regina, Phalange
+Princess Consuela Bananahammock
+Valerie
+
+Phoebe | occupation
+masseuse
+mugger
+songwriter
+musician
+extra
+telemarketer
+substitute secretary
+worker
+
+Phoebe | workplace
+TV show
+Dairy Queen
+
+Phoebe | relative
+Frank, Buffay Sr. | daughter
+
+Phoebe | relative
+Phoebe, Abbott | daughter
+Lily, Buffay | daughter
+
+Phoebe | relative
+Ursula, Buffay | sister
+
+Phoebe | lover
+Mike, Hannigan | wife
+
+Phoebe | lover
+Gary
+David
+Ross, Geller
+Joey, Tribbiani Jr.
+Eric
+Malcolm
+Rachel, Green
+
+Phoebe | friend
+Monica, Geller
+Mary, Ellen Jenkins
+
+Joey | name
+Joey, Tribbiani
+Joey, Tribbiani Jr.
+Joseph, Francis Tribbiani Jr.
+
+Joey | nickname
+Joe
+Chandler | Gunther
+Mario
+Kevin
+Drake | Erika
+
+Joey | nickname
+Ken, Adams
+Holden, McGroin
+Chandler, Bing
+Joseph, Stalin
+Drake, Ramoray
+Baby, Kangarro Tribbiani
+
+Joey | occupation
+actor
+minister
+Christmas elf | s1
+sampler | s1 s2
+processor | s2
+processor | s2
+salesman | s3
+tour guide | s4
+waiter | s4
+gladiator | s5
+waiter | s6
+
+Joey | workplace
+Christmas tree | s3
+Allesandro's | s4
+Caesars Palace | s5
+Central Perk | s6
+
+Joey | relative
+Joey, Tribbiani Sr. | son
+
+Joey | relative
+Gloria, Tribbiani | son
+
+Joey | relative
+Gina, Tribbiani | brother
+Tina, Tribbiani | brother
+Dina, Tribbiani | brother
+Mary-Angela, Tribbiani | brother
+Mary-Therese, Tribbiani | brother
+Veronica, Tribbiani | brother
+Cookie, Tribbiani | brother
+
+Joey | lover
+Alex, Garrett
+Rachel, Green
+Melanie
+Kathy
+
+Joey | friend
+Chandler, Bing
+Monica, Geller
+Rachel, Green
+Ross, Geller
+Phoebe, Buffay
+
+Chandler | name
+Chandler, Bing
+Chandler, Muriel Bing
+
+Chandler | nickname
+Ringo | Monica
+Mr. Big | Monica
+Roland Chang | fake ID
+Chinandolor Bong
+Toby | Bob
+Skidmark | Julie Graff
+Chan-Chan man | Monica
+Duck
+Mondler | Ross
+Clint
+Gene
+Mark Johnson
+John Markson
+Mr. Sensitivity | Monica
+The Boy Who Hates Thanksgiving | Judy Geller
+Bob | Jade
+Denis | woman at the 2 parties
+Smokey Joe | Joey
+
+Chandler | relative
+Charles, Bing | son
+
+Chandler | relative
+Nora, Tyler Bing | son
+
+Chandler | relative
+Albert
+Glen
+
+Chandler | lover
+Monica, Geller | husband
+
+Chandler | relative
+Jack, Bing | father
+
+Chandler | relative
+Erica, Bing | father
+
+Chandler | lover
+Kathy
+Janice, Litman Goralnik
+Joanna
+
+Ross | name
+Ross, Geller
+Ross, Eustace Geller
+
+Ross | nickname
+Rossie
+divorce-o | Phoebe
+the Divorcer
+Red Ross
+Dr. Geller
+Mental Geller
+Mr. Big Shot
+gel boy | Rachel
+Bobo the Sperm Guy | Susan
+Ron | Mr. Zelner
+Don | Mr. Zelner
+Holiday Armadillo
+porn king of the west village | Rachel
+Lovey Loverson | Phoebe
+Pampers | Monica
+Brown Bird
+
+Ross | occupation
+paleontologist
+professor
+
+Ross | workplace
+college
+
+Ross | relative
+Jack, Geller | son
+
+Ross | relative
+Judy, Geller | son
+
+Ross | relative
+Monica, Geller | brother
+
+Ross | relative
+Ben, Geller | father
+
+Ross | relative
+Emma, Geller-Green | father
+
+Ross | relative
+Althea | grandson
+
+Ross | relative
+Cassie, Geller
+Frannie
+
+Ross | relative
+Liddy | nephew
+Phylis | nephew
+Lillian | nephew
+Sylvia | nephew
+Iris | nephew
+Millie | nephew
+Cheryl | nephew
+Lisa | nephew
+Marilyn | nephew
+
+Ross | relative
+Freddie | nephew
+Dan | nephew
+Murray | nephew
+
+Ross | relative
+Jack, Bing | uncle
+
+Ross | relative
+Erica, Bing | uncle
+
+Ross | friend
+Monkey Marcel | owner
+
+Ross | lover
+Rachel, Green | husband
+Carol, Willick | husband
+Emily, Waltham | husband
+
+Ross | lover
+Phoebe, Buffay
+Bonnie
+Charlie, Wheeler
+Jill, Green
+Mona
+Julie
+Elizabeth, Stevens
+Joey, Tribbiani Jr.
+
+Ross | friend
+Chandler, Bing
+Phoebe, Buffay
+Joey, Tribbiani
+Will, Colbert
