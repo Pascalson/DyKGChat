@@ -1,0 +1,8 @@
+utils/
+glove/
+naacl_data/
+v1_0/
+extract_bert.py
+*.bin
+for_kb_cloud.txt
+__pycache__

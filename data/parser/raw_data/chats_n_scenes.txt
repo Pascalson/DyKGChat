@@ -1,0 +1,2 @@
+# required format
+scene_id | speaker_name | scene_discription | sentence

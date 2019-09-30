@@ -1,0 +1,6 @@
+# required format
+
+head1 relation_type
+tail1
+tail2
+tail3

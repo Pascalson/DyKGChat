@@ -1,51 +1,38 @@
 # DyKGChat
-This project is the implementation of our paper **DyKgChat: A Multi-domain Chit-chat Dialogue Generation Dataset Grounding on Dynamic Knowledge Graphs**.
+The project contains the collected data and code of our paper **Yi-Lin Tuan, Yun-Nung Chen, Hung-yi Lee. "DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs", EMNLP 2019**.
 
+* our proposed approach: (Qadpt) **Q**uick **Ad**a**pt**ive Dynamic Knoledge-Grounded Neural Converation Model (pronouce: Q-adapt)
 
-## Requirements
-* jieba
-* python3
+![Qadpt](Qadpt_model.png)
+
+## Setup
+### Installation (my environment)
+* python3.6
 * tensorflow r1.13
+* jieba
+* nltk3.2.5
 
-## Files
-* `data/`: the collected data `hgzhz/` and `friends/` as well as their trained TransE
-* `model_ckpts/`: the trained models
-* `Qadpt/`: the programs
+### Files
+* `data/`: the collected data `hgzhz/` and `friends/` as well as the trained TransE
+* `model_ckpts/`: the trained models in the paper
 
 
 ## Usage
-* clone the repository and switch to directory `Qadpt/`
+* clone the repository
+* run the script `run.sh`
 ```
-$cd Qadpt/
+$bash run.sh <GPU_ID> <method> <model> <data> <exp_name>
 ```
+  * for <GPU_ID>, check your device avalibility by `nvidia-smi`
+  * for <method>, choose from `train`, `pred_acc`, `eval_pred_acc`, `ifchange`
+  * for <model>, choose from `seq2seq`, `MemNet`, `TAware`, `KAware`, `Qadpt`
+  * for <data>, choose from `friends`, `hgzhz_v1_0`(used in our paper), `hgzhz`(current newest version)
+  * for <exp_name>, check the directory `model_ckpts`
 
-* testing hgzhz (the following commands must be in order)
-```
-$bash run.sh -1 pred_acc Qadpt
-$bash run.sh -1 ifchange Qadpt
-$bash run.sh -1 eval_pred_acc Qadpt
-```
-
-* testing friends
-```
-$bash frun.sh -1 pred_acc Qadpt
-$bash frun.sh -1 ifchange Qadpt
-$bash frun.sh -1 eval_pred_acc Qadpt
-```
-
-The automatic evaluation results will be printed on the screen, and some files will be outputed to `Qadpt/hgzhz_results/` or `Qadpt/friends_results/`.
-
-The default `ifchange` evaluates **Last-1** score. To change to **random** or **Last-2**, modify the `line 464` in `main.py` to `level=-1` or `level=1`.
-
-
-* training hgzhz
-```
-$bash run.sh 0 None Qadpt_new
-```
-
-* testing friends
-```
-$bash frun.sh 0 None Qadpt_new
-```
-
-The trained model will be stored in `model_ckpts/hgzhz/Qadpt_new/` or `model_ckpts/friends/Qadpt_new/`
+## More description
+* testing method
+  * `pred_acc`: for metrics `Generated-KW`, `BLEU-2`, `distinct-n`
+  * `eval_pred_acc`: for metrics `KW-Acc`, `KW/Generic`, `perplexity`
+  * `ifchange`: for change rates / accurate change rates
+* script options
+  * the `hops_num` and `change_level` are required to be changed in `run.sh`
