@@ -1,5 +1,7 @@
 # DyKGChat
-The project contains the collected data and code of our paper **Yi-Lin Tuan, Yun-Nung Chen, Hung-yi Lee. "DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs", EMNLP 2019**.
+The project contains the collected data and code of our paper [**Yi-Lin Tuan, Yun-Nung Chen, Hung-yi Lee. "DyKgChat: Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs", EMNLP 2019**](https://arxiv.org/abs/1910.00610).
+
+The extended abstract version is called **Dynamic Knowledge-Grounded Dialogue Generation through Walking on the Graph**.
 
 * our proposed approach: (Qadpt) **Q**uick **Ad**a**pt**ive Dynamic Knoledge-Grounded Neural Converation Model (pronouce: Q-adapt)
 
